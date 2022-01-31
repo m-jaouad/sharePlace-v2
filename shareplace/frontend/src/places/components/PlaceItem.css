@@ -1,0 +1,20 @@
+.place-item {
+  width: 40rem;
+  margin: 10px auto;
+  padding-bottom: 7px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 10px;
+
+  box-shadow: rgba(70, 48, 48, 0.75) 5px 5px 5px;
+}
+
+.place-image {
+  max-height: 18rem;
+  overflow: hidden;
+}
+
+.place-image img {
+  width: 100%;
+  object-fit: contain;
+}

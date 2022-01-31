@@ -1,0 +1,8 @@
+.navigation li {
+  margin: 15px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

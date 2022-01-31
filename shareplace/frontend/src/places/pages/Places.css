@@ -1,0 +1,8 @@
+.places {
+  display: flex;
+  width: 80%;
+  margin: 100px auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

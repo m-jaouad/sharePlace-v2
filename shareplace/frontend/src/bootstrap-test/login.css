@@ -1,0 +1,12 @@
+.container-login {
+  padding: 3rem 10rem;
+  border-radius: 10px;
+  margin: 30px 15px;
+}
+
+.hr {
+  display: inline;
+}
+.link {
+  text-decoration: none;
+}
